@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+h1, label {
+  color: #fff
+}
+
+ol {
+  color: #fff;
+}
+
+.done {
+  text-decoration: line-through;
+}
