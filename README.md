@@ -7,8 +7,8 @@
 ## Запуск
 `npm run serve`
 
-## Компиляция production версии
+## Сборка production версии
 `npm run prod`
 
-## Компиляция development версии
+## Сборка development версии
 `npm run dev`
